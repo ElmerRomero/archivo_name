@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664824750 source:d:\tercera sistemas\zclases\trabajo\main.cpp
+	<iostream>
+	"list.h"
+
+1664824713 d:\tercera sistemas\zclases\trabajo\list.h
+	<iostream>
+
